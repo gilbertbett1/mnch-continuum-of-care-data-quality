@@ -29,7 +29,7 @@ Synthetic dataset modeled on DHIS2 monthly facility summary reports (MOH 710/711
 Python (pandas, numpy) for cleaning and analysis · Power BI for the dashboard
 
 ## Scope Note
-This project focuses specifically on the **Maternal & Child Health (MCH)** segment of the continuum; antenatal, delivery, postnatal, and early childhood care, rather than the full RMNCAH framework (which also
+This project focuses specifically on the **Maternal, Newborn & Child Health (MNCH)** segment of the continuum; antenatal, delivery, postnatal, and early childhood care, rather than the full RMNCAH framework (which also
 includes reproductive health and adolescent health). MCH was chosen as the scope because it captures the specific ANC-to-immunization attrition problem this project investigates.
 
 ## Limitations
